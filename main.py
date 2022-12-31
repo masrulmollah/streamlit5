@@ -11,6 +11,7 @@ with header:
     st.text("this is a new line")
     st.text("this is second line")
     st.text("this is third line")
+    st.text("this is fourth line")
 
 with dataset:
     st.header("here is my data")
